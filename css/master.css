@@ -1,0 +1,17 @@
+.head{
+  background-color: rgba(68, 152, 228, 1);
+}
+.redes{
+  position:absolute;
+  bottom:0;
+  right:0;
+}
+.red-social{
+  width: 30px;
+}
+.logo{
+  width: 15vw;
+}
+.barra-navegacion{
+  width: 100%;
+}
